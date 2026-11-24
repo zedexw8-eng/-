@@ -1,0 +1,3 @@
+LIBRARY RobRunInternal
+EXPORTS
+    DllMain=rr_mapped_entry @1

@@ -1,0 +1,7 @@
+#include "font-res.h"
+
+IDR_FONT_PX RCDATA "..\\..\\..\\fonts\\fs-tahoma-8px.otf"
+IDR_FONT_FLAG RCDATA "..\\..\\..\\fonts\\smallest_pixel-7.ttf"
+IDR_FONT_TAHOMA_BD RCDATA "..\\..\\..\\fonts\\tahomabd.ttf"
+IDR_FONT_VERDANA_BD RCDATA "..\\..\\..\\fonts\\verdanab.ttf"
+IDR_FONT_VERDANA RCDATA "..\\..\\..\\fonts\\verdana.ttf"
